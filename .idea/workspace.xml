@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c95eb7c0-c38d-445d-8a9a-5915737b2b47" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Time Series 2019-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Yelloh_2018-v2-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Yelloh_2019-Copy1-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Time Series 2019.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Yelloh_2018-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Yelloh_2018-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Yelloh_2019-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Yelloh_2018.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Yelloh_2018.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Yelloh_2019.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Yelloh_2019.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
