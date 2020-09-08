@@ -6,6 +6,7 @@
       <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Yelloh_2018-v2-checkpoint.ipynb" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Yelloh_2019-Copy1-checkpoint.ipynb" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Time Series 2019.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Yelloh_2018-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Yelloh_2018-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Yelloh_2019-checkpoint.ipynb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Yelloh_2018.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Yelloh_2018.ipynb" afterDir="false" />
@@ -54,5 +55,9 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="220" y="127" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1598618163296" />
+    <state x="504" y="354" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599139056215">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="504" y="354" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1599139056215" />
   </component>
 </project>
